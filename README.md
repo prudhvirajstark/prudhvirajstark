@@ -1,12 +1,12 @@
-### Hi there 👋
+### Howdy! 👋
 
 <!--
 **prudhvirajstark/prudhvirajstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning Sensor fusion of Camera, Lidar and Radar sensors.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# README.md
-<h1 align="center">I'm Prudhvi raj</h1>
+#
+<h2 align="center">I'm Prudhvi raj</h1>
 <h3 align="center"></h3>
-
+<p align="left">- I am a Masters student from france with focusing on autonomous driving applications like deep learning models, sensor fusion algorithms, 3D lidar data processing and compressions techniques.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvirajstark&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvirajstark" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prudhvirajstark" alt="prudhvirajstark" /></a> </p>
 
 - 📫 How to reach me **panisettiprudhviraj@gmail.com**
 
-# Blogs posts
+<!-- # Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
