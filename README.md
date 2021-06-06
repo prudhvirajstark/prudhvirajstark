@@ -1,30 +1,40 @@
 ### Howdy! 👋
-![alt text](279618.jpg?raw=true)
 
+<p align="center">
+  <img src="279618.jpg" width="650" alt="accessibility text">
+</p>
+<h2> Hi, I'm Prudhvi raj! <img src="https://media0.giphy.com/media/h8DFOyjseuTiXdnTlI/200w.webp?cid=ecf05e47g1mlr0rt1j8fchf2rdwsb7803mwef3ofyfrsw5d2&rid=200w.webp&ct=sI" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Dual Degree Master student at <a href="https://manipal.edu/sois.html">Manipal University & </a><a href="https://www.esigelec.fr/fr">ESIGELEC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+<p>Besides programming, I enjoy podcasts and travelling.</p>
+<p><b>Talking about personal stuff:</b></p>
+<p>
+- 🔭 I’m currently working on deep learning and point cloud data. <br/>
+- 🌱 I’m currently learning Sensor fusion of Camera, Lidar and Radar sensors.<br/>
+- 👯 I’m looking to collaborate on deep learning and point cloud data. <br/>
+- 🤔 I’m looking for help with Computer vision <br/>
+- 💬 Ask me about anything: I am happy to help<br/>
+- 📫 How to reach me **panisettiprudhviraj@gmail.com**<br/>
+</p>
 
-<!--
-**prudhvirajstark/prudhvirajstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning Sensor fusion of Camera, Lidar and Radar sensors.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">I'm Prudhvi raj</h1>
+```javascript
+const Prudhvi = {
+  pronouns: "he" | "his",
+  code: [Python, C++, C],
+  tools: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D, Docker],
+  Area Of Interest: ["Sensor Fusion", "Deep learning", "design system pattern", "Computer Vision"]
+}
+```
 <h3 align="center"></h3>
-<p align="left">- I am a Masters student from france with focusing on autonomous driving applications like deep learning models, sensor fusion algorithms, 3D lidar data processing and compressions techniques.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvirajstark&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvirajstark" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prudhvirajstark" alt="prudhvirajstark" /></a> </p>
 
-- 📫 How to reach me **panisettiprudhviraj@gmail.com**
+
 
 <!-- # Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
