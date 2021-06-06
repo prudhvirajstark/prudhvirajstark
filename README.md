@@ -1,10 +1,8 @@
 ### Howdy! 👋
 
-<p align="center">
-  <img src="279618.jpg" width="650" alt="accessibility text">
-</p>
+
 <h2> Hi, I'm Prudhvi raj! <img src="https://media0.giphy.com/media/h8DFOyjseuTiXdnTlI/200w.webp?cid=ecf05e47g1mlr0rt1j8fchf2rdwsb7803mwef3ofyfrsw5d2&rid=200w.webp&ct=sI" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="code.gif" width="430">
 <p><em>Dual Degree Master student at <a href="https://manipal.edu/sois.html">Manipal University & </a><a href="https://www.esigelec.fr/fr">ESIGELEC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 <p>Besides programming, I enjoy podcasts and travelling.</p>
