@@ -1,5 +1,5 @@
 ### Howdy! 👋
-![alt text](279618.jpg=100x?raw=true)
+![alt text](279618.jpg?raw=true)
 
 
 <!--
