@@ -1,4 +1,6 @@
 ### Howdy! 👋
+![alt text](279618.jpg?raw=true)
+
 
 <!--
 **prudhvirajstark/prudhvirajstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
+
 <h2 align="center">I'm Prudhvi raj</h1>
 <h3 align="center"></h3>
 <p align="left">- I am a Masters student from france with focusing on autonomous driving applications like deep learning models, sensor fusion algorithms, 3D lidar data processing and compressions techniques.</p>
