@@ -23,7 +23,11 @@ const Prudhvi = {
   pronouns: "he" | "his",
   code: [Python, C++, C],
   tools: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D, Docker],
-  Area Of Interest: ["Sensor Fusion", "Deep learning", "design system pattern", "Computer Vision"]
+  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision"],
+   hobbies: {
+                        indoor: "Chess",
+                        outdoor: "Trekking"
+                      }
 }
 ```
 <h3 align="center"></h3>
@@ -31,6 +35,10 @@ const Prudhvi = {
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvirajstark&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvirajstark" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prudhvirajstark" alt="prudhvirajstark" /></a> </p>
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
