@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on deep learning and point cloud data. <br/>
 - 🤔 I’m looking for help with Computer vision <br/>
 - 💬 Ask me about anything: I am happy to help<br/>
-- 📫 How to reach me **panisettiprudhviraj@gmail.com**<br/>
+- 📫 How to reach me <a href="mailto:panisettiprudhviraj@gmail.com">**panisettiprudhviraj@gmail.com**</a>.
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
