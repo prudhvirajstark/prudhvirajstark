@@ -22,8 +22,9 @@
 const Prudhvi = {
   pronouns: "he" | "his",
   code: [Python, C++, C],
-  tools: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D, Docker],
-  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision"],
+  libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D],
+  tools: [CMake, gtest, Docker],
+  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision", "Autonomous Driving"],
    hobbies: {
                         indoor: "Chess",
                         outdoor: "Trekking"
