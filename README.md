@@ -5,11 +5,11 @@
 <img align='right' src="code.gif" width="400" height ="350">
 <p><em>Dual Degree Master student at <a href="https://manipal.edu/sois.html">Manipal University</a><a> & </a><a href="https://www.esigelec.fr/fr">ESIGELEC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-<p>Besides programming, I enjoy podcasts and travelling. </p>
+<p>Besides programming and data analysis, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff:</b></p>
 <p>
 - 🔭 I’m currently working on deep learning and point cloud data. <br/>
-- 🌱 I’m currently learning Sensor fusion of Camera, Lidar and Radar sensors.<br/>
+- 🌱 I’m currently learning Sensor fusion of Camera, Lidar, Stereo Camera and Radar sensors.<br/>
 - 👯 I’m looking to collaborate on deep learning and point cloud data. <br/>
 - 🤔 I’m looking for help with Computer vision <br/>
 - 💬 Ask me about anything: I am happy to help<br/>
@@ -23,11 +23,13 @@ const Prudhvi = {
   pronouns: "he" | "his",
   code: [Python, C++, C],
   libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D],
-  tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm],
-  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision", "Autonomous Driving"],
+  tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab],
+  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision", "Autonomous Driving", "Data Science"],
    hobbies: {
-                        indoor: "Chess",
-                        outdoor: "Trekking"
+                        indoorActivities: "Chess",
+                        outdoorActivites: "Trekking",
+                        MiscActivites: "Computing"
+                        
                       }
 }
 ```
