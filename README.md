@@ -10,7 +10,7 @@
 <p>
 - 🔭 I’m currently working on deep learning and point cloud data. <br/>
 - 🌱 I’m currently learning Sensor fusion of Camera, Lidar, Stereo Camera and Radar sensors.<br/>
-- 👯 I’m looking to collaborate on deep learning and point cloud data. <br/>
+- 👯 I’m looking to collaborate on image, video-coding and point cloud data. <br/>
 - 🤔 I’m looking for help with Computer vision <br/>
 - 💬 Ask me about anything: I am happy to help<br/>
 - 📫 How to reach me <a href="mailto:panisettiprudhviraj@gmail.com">**panisettiprudhviraj@gmail.com**</a>.
