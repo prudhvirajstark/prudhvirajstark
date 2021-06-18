@@ -26,7 +26,7 @@ const Prudhvi = {
   code: [Python, C++, C],
   libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D],
   tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
-  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision", "Autonomous Driving", "Data Science"],
+  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision", "Autonomous Driving", "Data Science", "Machine Learning"],
    hobbies: {
                         indoorActivities: "Chess",
                         outdoorActivites: "Trekking",
