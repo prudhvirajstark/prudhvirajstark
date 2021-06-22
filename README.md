@@ -10,10 +10,10 @@
 <p>Besides programming and data analysis, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff: </b></p>
 <p>
-- 🔭 I’m currently working on deep learning and point cloud data. <br/>
-- 🌱 I’m currently learning Sensor fusion of Camera, Lidar, Stereo Camera and Radar sensors.<br/>
+- 🔭 I’m currently working on Localization, deep learning and point cloud data. <br/>
+- 🌱 I’m currently learning Sensor fusion of Camera, Lidar, Stereo Camera and Radar sensors. <br/>
 - 👯 I’m looking to collaborate on image, video-coding and point cloud data. <br/>
-- 🤔 I’m looking for help with Computer vision <br/>
+- 🤔 I’m looking for help with Computer vision. <br/>
 - 💬 Ask me about anything: I am happy to help<br/>
 - 📫 How to reach me <a href="mailto:panisettiprudhviraj@gmail.com">*panisettiprudhviraj@gmail.com*</a>.
 </p>
@@ -27,6 +27,7 @@ const Prudhvi = {
   libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D],
   tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
   areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision", "Autonomous Driving", "Data Science", "Machine Learning"],
+  algorithmsLocalization: ["Extended & Unscented kalman filter","Monte Carlo"],
    hobbies: {
                         indoorActivities: "Chess",
                         outdoorActivites: "Trekking",
