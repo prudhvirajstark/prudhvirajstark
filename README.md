@@ -26,8 +26,8 @@ const Prudhvi = {
   code: [Python, C++, C],
   libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D],
   tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
-  areaOfInterest: ["Lidar", "Deep learning", "Sensors", "Computer Vision", "Autonomous Driving", "Data Science", "Machine Learning"],
-  algorithmsLocalization: ["Extended & Unscented kalman filter","Monte Carlo"],
+  areaOfInterest: [Lidar, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
+  algorithmsLocalization: [Extended & Unscented kalman filter,Monte Carlo],
    hobbies: {
                         indoorActivities: "Chess",
                         outdoorActivites: "Trekking",
