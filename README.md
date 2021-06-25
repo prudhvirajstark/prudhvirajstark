@@ -7,7 +7,7 @@
 </em></p>
 <p><em>Sensor Fusion Nanodegree student at <a href="https://www.udacity.com/">UDACITY </a><a> 
 </em></p>
-<p>Besides programming and data analysis, I enjoy podcasts and travelling. </p>
+<p>Besides Robotics,Programming and Data analysis, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff: </b></p>
 <p>
 - 🔭 I’m currently working on Localization, deep learning and point cloud data. <br/>
@@ -24,9 +24,9 @@
 const Prudhvi = {
   pronouns: "he" | "his",
   code: [Python, C++, C],
-  libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D],
+  libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D, ROS],
   tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
-  areaOfInterest: [Lidar, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
+  areaOfInterest: [Robotics, Lidar, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
   algorithmsLocalization: [Extended & Unscented kalman filter,Monte Carlo],
    hobbies: {
                         indoorActivities: "Chess",
