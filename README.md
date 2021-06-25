@@ -5,7 +5,7 @@
 <img align='right' src="code.gif" width="400" height ="350">
 <p><em>Dual Degree Master student at <a href="https://manipal.edu/sois.html">Manipal University</a><a> & </a><a href="https://www.esigelec.fr/fr">ESIGELEC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-<p><em>Sensor Fusion Nanodegree student at <a href="https://www.udacity.com/">UDACITY</a><a> 
+<p><em>Sensor Fusion Nanodegree student at <a href="https://www.udacity.com/">UDACITY </a><a> 
 </em></p>
 <p>Besides programming and data analysis, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff: </b></p>
