@@ -7,7 +7,7 @@
 </em></p>
 <p><em>Sensor Fusion Nanodegree student at <a href="https://www.udacity.com/">UDACITY </a><a> 
 </em></p>
-<p>Besides Robotics,Programming and Data analysis, I enjoy podcasts and travelling. </p>
+<p>Besides Robotics,Programming and Neuromorphic Computing, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff: </b></p>
 <p>
 - 🔭 I’m currently working on Localization, deep learning and point cloud data. <br/>
