@@ -8,7 +8,7 @@
 <p><em>Sensor Fusion Nanodegree student at <a href="https://www.udacity.com/">UDACITY</a><a> 
 </em></p>
 <p>Besides Robotics,Programming and Neuromorphic Computing, I enjoy podcasts and travelling. </p>
-<p><b>Talking about personal stuff: </b></p>
+<p><b>Talking about personal stuff:</b></p>
 <p>
 - 🔭 I’m currently working on Localization, deep learning and point cloud data. <br/>
 - 🌱 I’m currently learning Sensor fusion of Camera, Lidar, Stereo Camera and Radar sensors. <br/>
