@@ -55,7 +55,7 @@ const Prudhvi = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://twitter.com/prudhvi051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prudhvi051" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prudhviraj-panisetti-4a6479a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prudhviraj-panisetti-4a6479a0" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prudhviraj-panisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prudhviraj-panisetti-4a6479a0" height="30" width="40" /></a>
 <a href="https://medium.com/@prudhvistark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prudhvistark" height="30" width="40" /></a>
 </p>
 
