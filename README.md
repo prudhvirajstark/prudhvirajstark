@@ -10,7 +10,7 @@
 <p>Besides Robotics,Programming and Neuromorphic Computing, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff:</b></p>
 <p>
-- 🔭 I’m currently working on Localization, deep learning and point cloud data. <br/>
+- 🔭 I’m currently working on Localization, deep learning and computer vision. <br/>
 - 🌱 I’m currently learning Sensor fusion of Camera, Lidar, Stereo Camera and Radar sensors. <br/>
 - 👯 I’m looking to collaborate on image, video-coding and point cloud data. <br/>
 - 🤔 I’m looking for help with Computer vision. <br/>
@@ -24,7 +24,7 @@
 const Prudhvi = {
   pronouns: "he" | "his",
   code: [Python, C++, C],
-  libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, Open3D, ROS],
+  libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, dLib, Open3D, ROS],
   tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
   areaOfInterest: [Robotics, Lidar, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
   algorithmsLocalization: [Extended & Unscented kalman filter,Monte Carlo],
