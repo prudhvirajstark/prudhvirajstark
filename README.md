@@ -5,15 +5,13 @@
 <img align='right' src="code.gif" width="400" height ="350">
 <p><em>Dual Degree Master student at <a href="https://manipal.edu/sois.html">Manipal University</a><a> & </a><a href="https://www.esigelec.fr/fr">ESIGELEC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-<p><em>Sensor Fusion Nanodegree student at <a href="https://www.udacity.com/">UDACITY</a><a> 
-</em></p>
-<p>Besides Robotics,Programming and Neuromorphic Computing, I enjoy podcasts and travelling. </p>
+<p>Besides Data,Programming and Neuromorphic Computing, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff:</b></p>
 <p>
-- 🔭 I’m currently working on Localization, deep learning and computer vision. <br/>
-- 🌱 I’m currently learning Sensor fusion of Camera, Lidar, Stereo Camera and Radar sensors. <br/>
-- 👯 I’m looking to collaborate on image, video-coding and point cloud data. <br/>
-- 🤔 I’m looking for help with Computer vision. <br/>
+- 🔭 I’m currently working on deep learning. <br/>
+- 🌱 I’m currently learning Distributed Systems and Analytics. <br/>
+- 👯 I’m looking to collaborate on Data Engineering techniques. <br/>
+- 🤔 I’m looking for help with Azure technologies. <br/>
 - 💬 Ask me about anything: I am happy to help. <br/>
 - 📫 How to reach me <a href="mailto:panisettiprudhviraj@gmail.com">*panisettiprudhviraj@gmail.com*</a>.
 </p>
@@ -26,8 +24,7 @@ const Prudhvi = {
   code: [Python, C++, C],
   libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, dLib, Open3D, ROS],
   tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
-  areaOfInterest: [Robotics, Lidar, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
-  algorithmsLocalization: [Extended & Unscented kalman filter,Monte Carlo],
+  areaOfInterest: [Robotics, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
    hobbies: {
                         indoorActivities: "Chess",
                         outdoorActivites: "Trekking",
