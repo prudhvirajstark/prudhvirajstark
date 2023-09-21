@@ -21,10 +21,10 @@
 ```javascript
 const Prudhvi = {
   pronouns: "he" | "his",
-  code: [Python, C++, C],
-  libraries: [OpenCV, Keras, PyTorch, Tensorflow, PCL, dLib, Open3D, ROS],
-  tools: [CMake, gtest, Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
-  areaOfInterest: [Robotics, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
+  code: [Python],
+  libraries: [OpenCV, Keras, PyTorch, Tensorflow],
+  tools: [ Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
+  areaOfInterest: [ Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
    hobbies: {
                         indoorActivities: "Chess",
                         outdoorActivites: "Trekking",
