@@ -10,7 +10,7 @@
 <p>
 - 🔭 I’m currently working on deep learning. <br/>
 - 🌱 I’m currently learning Distributed Systems and Analytics. <br/>
-- 👯 I’m looking to collaborate on Data Engineering techniques. <br/>
+- 👯 I’m looking to collaborate on Data Engineering techniques along with ML Microservices. <br/>
 - 🤔 I’m looking for help with Azure technologies. <br/>
 - 💬 Ask me about anything: I am happy to help. <br/>
 - 📫 How to reach me <a href="mailto:panisettiprudhviraj@gmail.com">*panisettiprudhviraj@gmail.com*</a>.
@@ -21,10 +21,10 @@
 ```javascript
 const Prudhvi = {
   pronouns: "he" | "his",
-  code: [Python],
+  code: [Python, Golang],
   libraries: [OpenCV, Keras, PyTorch, Tensorflow],
   tools: [ Docker, Visual Studio Code, PyCharm, Matlab, Jupyter],
-  areaOfInterest: [ Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
+  areaOfInterest: [ IoT, Deep learning, Sensors, Computer Vision, Autonomous Driving, Data Science, Machine Learning],
    hobbies: {
                         indoorActivities: "Chess",
                         outdoorActivites: "Trekking",
