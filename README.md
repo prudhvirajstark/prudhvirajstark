@@ -3,12 +3,12 @@
 
 <h2> Hi, I'm Prudhvi raj ! <img src="https://media0.giphy.com/media/h8DFOyjseuTiXdnTlI/200w.webp?cid=ecf05e47g1mlr0rt1j8fchf2rdwsb7803mwef3ofyfrsw5d2&rid=200w.webp&ct=sI" width="50"></h2>
 <img align='right' src="code.gif" width="400" height ="350">
-<p><em>Agentic AI Developer <a href="https://manipal.edu/sois.html"></a>
+<p><em>IoT Data Engineer and Agentic AI Developer <a href="https://manipal.edu/sois.html"></a>
 </em></p>
-<p>Besides Data,Programming and Agentic AI, I enjoy podcasts and travelling. </p>
+<p>Besides Data, Programming and Agentic AI, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff:</b></p>
 <p>
-- 🔭 I’m currently working on Knwoledge Graph RAG. <br/>
+- 🔭 I’m currently working on How Linux environments with Data in IoT grow towards Knwoledge Graph RAG applications <br/>
 - 👯 I’m looking to collaborate on Graph Theory techniques along with Shipping Agents Free <br/>
 - 💬 Ask me about anything: I am happy to help. <br/>
 - 📫 How to reach me <a href="mailto:panisettiprudhviraj@gmail.com">*panisettiprudhviraj@gmail.com*</a>.
