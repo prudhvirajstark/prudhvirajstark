@@ -8,7 +8,7 @@
 <p>Besides Data, Programming and Agentic AI, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff:</b></p>
 <p>
-- 🔭 I’m currently working on How Linux environments with Data in IoT grow towards Knwoledge Graph RAG applications <br/>
+- 🔭 I’m currently working with Data in IoT grow towards Knwoledge Graph RAG applications <br/>
 - 👯 I’m looking to collaborate on Graph Theory techniques along with Shipping Agents Free <br/>
 - 💬 Ask me about anything: I am happy to help. <br/>
 - 📫 How to reach me <a href="mailto:panisettiprudhviraj@gmail.com">*panisettiprudhviraj@gmail.com*</a>.
