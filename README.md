@@ -3,7 +3,7 @@
 
 <h2> Hi, I'm Prudhvi raj ! <img src="https://media0.giphy.com/media/h8DFOyjseuTiXdnTlI/200w.webp?cid=ecf05e47g1mlr0rt1j8fchf2rdwsb7803mwef3ofyfrsw5d2&rid=200w.webp&ct=sI" width="50"></h2>
 <img align='right' src="code.gif" width="400" height ="350">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&width=435&lines=IoT+Data+Engineer+%26+Agentic+AI+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&width=435&lines=IoT+Data+%26+Agentic+AI+Developer" alt="Typing SVG" /></a>
 </em></p>
 <p>Besides Data, Programming and Agentic AI, I enjoy podcasts and travelling. </p>
 <p><b>Talking about personal stuff:</b></p>
@@ -21,7 +21,7 @@ const Prudhvi = {
     pronouns: ["he", "his"],
     skills: {
         code: ["Python", "SQL"],
-        libraries: ["LangChain", "LangGraph", "Langfuse", "PyTorch", "TensorFlow", "PySpark"],
+        libraries: ["Google ADK","LangChain", "LangGraph", "Langfuse", "PyTorch", "TensorFlow", "PySpark"],
         tools: ["Docker", "Kubernetes", "AWS", "Azure Machine Learning", "Databricks", "MLflow", "Airflow", "Visual Studio Code"],
         areaOfInterest: ["Agentic AI", "RAG Architectures", "Knowledge Graphs"]
     },
